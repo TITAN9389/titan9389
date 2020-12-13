@@ -43,8 +43,8 @@
 
 <p>p.s: this stats are only for public repos (private & client repos not included)</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TITAN9389&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/TITAN9389/github-readme-stats)
+[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=TITAN9389&langs_count=8&layout=compact&theme=radical&count_private=true&#41;]&#40;https://github.com/TITAN9389/github-readme-stats&#41;)
 
 [![TITAN9389's github stats](https://github-readme-stats.vercel.app/api?username=TITAN9389&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/TITAN9389/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TITAN9389&theme=monokai&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/TITAN9389/github-profile-trophy)
+[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=TITAN9389&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/TITAN9389/github-profile-trophy&#41;)
