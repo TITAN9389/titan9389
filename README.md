@@ -1,9 +1,9 @@
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Hi I'm Seb - Software Engineer</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=TITAN9389&label=Profile%20views&color=blueviolet&style=plastic" alt="TITAN9389" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TITAN9389&theme=monokai&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/titan9389/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TITAN9389&theme=monokai&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/TITAN9389/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -43,6 +43,6 @@
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan9389&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/titan9389/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TITAN9389&langs_count=8&layout=compact&theme=radical&count_private=true)](https://github.com/TITAN9389/github-readme-stats)
 
-[![titan9389's github stats](https://github-readme-stats.vercel.app/api?username=TITAN9389&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/titan9389/github-readme-stats)
+[![TITAN9389's github stats](https://github-readme-stats.vercel.app/api?username=TITAN9389&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/TITAN9389/github-readme-stats)
