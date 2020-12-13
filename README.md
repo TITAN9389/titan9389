@@ -14,6 +14,8 @@
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" title="electron" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" title="swift" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" title="redis" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" title="puppeteer" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" title="mongodb" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/meteor/meteor-original.svg" alt="meteor" title="meteor" width="40" height="40"/> </a> 
