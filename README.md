@@ -39,12 +39,12 @@
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-[comment]: <> (<p> <img src="https://komarev.com/ghpvc/?username=TITAN9389&label=Profile%20views&color=blueviolet&style=plastic" alt="TITAN9389" /> </p>)
+[comment]: <> (<p> <img src="https://komarev.com/ghpvc/?username=sebmaz93&label=Profile%20views&color=blueviolet&style=plastic" alt="sebmaz93" /> </p>)
 
 <p>p.s: this stats are only for public repos (private & client repos not included)</p>
 
-[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=TITAN9389&langs_count=8&layout=compact&theme=radical&count_private=true&#41;]&#40;https://github.com/TITAN9389/github-readme-stats&#41;)
+[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
-[![TITAN9389's github stats](https://github-readme-stats.vercel.app/api?username=TITAN9389&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/TITAN9389/github-readme-stats)
+[![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/sebmaz93/github-readme-stats)
 
-[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=TITAN9389&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/TITAN9389/github-profile-trophy&#41;)
+[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=sebmaz93&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/sebmaz93/github-profile-trophy&#41;)
