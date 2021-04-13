@@ -2,7 +2,7 @@
 <h3 align="center">Hi I'm Seb - Software Engineer</h3>
 
 <h3 align="left">I use these Languages and Tools:</h3>
-<div style="background-image: linear-gradient(240deg, #334d50, #cbcaa5);padding: 10px 24px; display: inline-block; border: 1px solid #fff; border-radius: 6px">
+<div >
 <p>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/> </a>
@@ -53,8 +53,8 @@
 
 [comment]: <> (<p>p.s: this stats are only for public repos &#40;private & client repos not included&#41;</p>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=vue,scss&bg_color=10,334d50,cbcaa5&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
 
-[![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,334d50,cbcaa5&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
+[![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
 
 [comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=sebmaz93&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/sebmaz93/github-profile-trophy&#41;)
