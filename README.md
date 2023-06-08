@@ -58,7 +58,7 @@
 
 [comment]: <> (<p>p.s: this stats are only for public repos &#40;private & client repos not included&#41;</p>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats)
 
 <!-- [![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats) -->
 
