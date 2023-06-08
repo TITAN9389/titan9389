@@ -33,7 +33,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="css3" width="40" height="40"/> </a> 
 </p>
 <p>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" title="next" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next" title="next" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prisma.svg" alt="prisma" title="prisma" width="40" height="40"/> </a> 
