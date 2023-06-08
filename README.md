@@ -22,7 +22,7 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="mongodb" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40"/> </a> 
 <!-- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="meteor" title="meteor" width="40" height="40"/> </a>  -->
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" title="rust" width="40" height="40"/> </a>  -->
+  <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" title="rust" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" title="babel" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" title="d3js" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby" title="gatsby" width="40" height="40"/> </a> 
