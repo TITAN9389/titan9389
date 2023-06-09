@@ -46,20 +46,9 @@
 </p>
 </div>
 
-[comment]: <> (<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> </a> )
-[comment]: <> (<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" title="express" width="40" height="40"/> </a> )
-[comment]: <> (<a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" title="gulp" width="40" height="40"/> </a> )
-[comment]: <> (<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40"/> </a> )
-[comment]: <> (<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="gitlab" width="40" height="40"/> </a> )
-
-[comment]: <> (<p> <img src="https://komarev.com/ghpvc/?username=sebmaz93&label=Profile%20views&color=blueviolet&style=plastic" alt="sebmaz93" title=sebmaz93 /> </p>)
-
-[comment]: <> (<p>p.s: this stats are only for public repos &#40;private & client repos not included&#41;</p>)
-
 [//]: # ([![Top Langs]&#40;https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 [![Top Langs](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5)](https://github.com/sebmaz93/github-readme-stats)
 
+[//]: # ([![sebmaz93's github stats]&#40;https://github-readme-stats-sebmaz93.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
-<!-- [![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sebmaz93/github-readme-stats) -->
-
-[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=sebmaz93&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/sebmaz93/github-profile-trophy&#41;)
+[//]: # (![trophy]&#40;https://github-profile-trophy.vercel.app/?username=sebmaz93&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/sebmaz93/github-profile-trophy&#41;&#41;)
