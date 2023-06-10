@@ -47,7 +47,7 @@
 </div>
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
-[![Top Langs](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5)](https://github.com/sebmaz93/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,shell,powershell,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5)](https://github.com/sebmaz93/github-readme-stats)
 
 [//]: # ([![sebmaz93's github stats]&#40;https://github-readme-stats-sebmaz93.vercel.app/api?username=sebmaz93&count_private=tru&show_icons=true&include_all_commits=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
