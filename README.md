@@ -1,4 +1,6 @@
-<h3 align="center">Hi I'm Seb - Software Engineer</h3>
+<h3 align="center">Hi I'm Seb - a Fullstack Software Engineer</h3>
+
+[![stackoverflow.com](https://stackoverflow.com/users/flair/7857368.png?theme=dark)](https://stackoverflow.com/users/7857368/sebmaz)
 
 <h3 align="left">I use these Languages and Tools:</h3>
 <div >
@@ -49,7 +51,7 @@
 [//]: # ([![Top Langs]&#40;https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 [//]: # ([![Top Langs]&#40;https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=radical&count_private=true&hide=html,shell,powershell,vue,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ff5b3d5ce9f4ca58b52411?variant=dark)](https://roadmap.sh)
+[//]: [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ff5b3d5ce9f4ca58b52411?variant=dark)](https://roadmap.sh)
 
 [![Top Langs](https://github-readme-stats-sebmaz93.vercel.app/api/top-langs/?username=sebmaz93&langs_count=8&layout=compact&theme=dracula&count_private=true&hide=html,shell,powershell,vue,scss&size_weight=0.5&count_weight=0.5)](https://github.com/sebmaz93/github-readme-stats)
 
