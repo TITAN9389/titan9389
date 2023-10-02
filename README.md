@@ -1,11 +1,11 @@
-### 🧔‍♂️ Hi I'm Seb - a Fullstack Software Engineer
+**🧔‍♂️ Hi I'm _Seb_ - a Fullstack Software Engineer** 
 
 Welcome to my GitHub profile, I'm a tech enthusiast with a deep passion for Space 🪐🧑🏻‍🚀. 
 
 My coding philosophy? Write code that's both efficient and easy to read. I'm dedicated to making tech enjoyable and impactful.
 The future is unwritten, but with technology as our tool, I believe we can sculpt groundbreaking wonders.
 
-### 🛠 Languages and tools :
+**🛠 Languages and tools :**
 <div >
 <p>
 
