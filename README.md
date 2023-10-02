@@ -1,4 +1,4 @@
-<h3 align="left">🧔‍♂️ Hi I'm Seb - a Fullstack Software Engineer</h3>
+<h3 align="left"><span>🧔‍♂️</span> Hi I'm Seb - a Fullstack Software Engineer</h3>
 
 <p>Welcome to my GitHub profile, I'm a tech enthusiast with a deep passion for Space 🪐🧑🏻‍🚀. 
 
