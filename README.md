@@ -1,4 +1,4 @@
-**🧔‍♂️ Hi I'm _Seb_ - ** 
+## 🧔‍♂️ Hi I'm _Seb_  
 
 Welcome to my GitHub profile, I'm a Fullstack Software Engineer with a deep passion for Space 🪐🧑🏻‍🚀. 
 
