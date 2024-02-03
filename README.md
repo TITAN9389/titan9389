@@ -17,11 +17,16 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="45" height="40"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="./assets/rust_icon_3.png" alt="rust" title="rust" width="54"/> </a> 
 <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" title="go" width="40" height="40"/> </a> 
-<a href="https://www.swift.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" title="swift" width="45" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" width="45" height="40"/> </a> 
-<a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" title="webstorm" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="./assets/rust_rover_icon.svg" alt="rust rover" title="rust rover" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" title="xcode" width="40" height="40"/> </a> 
+
+[//]: # (<a href="https://www.swift.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" title="swift" width="45" height="40"/> </a> )
+[//]: # (<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" width="45" height="40"/> </a> )
+
+<a href="https://neovim.io/" target="_blank"> <img src="./assets/neovim.svg" alt="neovim" title="Neovim" width="40" height="40"/> </a> 
+<a href="https://www.vim.org/docs.php" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim" width="40" height="40"/> </a> 
+
+[//]: # (<a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" title="webstorm" width="40" height="40"/> </a> )
+[//]: # (<a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="./assets/rust_rover_icon.svg" alt="rust rover" title="rust rover" width="40" height="40"/> </a> )
+[//]: # (<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" title="xcode" width="40" height="40"/> </a> )
 
 [//]: # (<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" width="40" height="40"/> </a> )
 [//]: # (<a href="https://nextjs.org/" target="_blank"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next" title="next" width="40" height="40"/> </a>)
@@ -30,6 +35,13 @@ The future is unwritten, but with technology as our tool, I believe we can sculp
 [//]: # (<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="docker" width="40" height="40"/> </a> )
 [//]: # (<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8" title="k8" width="40" height="40"/> </a> )
 </p>
+
+**🎯 Targets :**
+
+<a href="https://ocaml.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="ocaml" title="ocaml" width="45" height="40"/> </a>
+<a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" title="elixir" width="45" height="40"/> </a>
+<a href="https://ziglang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="zig" title="zig" width="45" height="40"/> </a>
+<a href="https://www.haskell.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" title="haskell" width="45" height="40"/> </a>
 
 [![stackoverflow.com](https://stackoverflow.com/users/flair/7857368.png?theme=dark)](https://stackoverflow.com/users/7857368/sebmaz)
 
